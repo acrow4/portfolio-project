@@ -85,7 +85,8 @@ footer {
   padding: 120px 60px;
 }
 
-.portfolio-image {
+.portfolio-image,
+.content img {
   border-radius: 20px;
 }
 
