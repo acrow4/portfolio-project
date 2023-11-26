@@ -165,6 +165,25 @@ content p {
   font-size: 14px;
 }
 
+.project-quadrant a {
+  color: #272142;
+  text-decoration: none;
+}
+
+.project-quadrant a:hover {
+  text-decoration: none;
+  color: var(--branding-color);
+}
+
+.project-quadrant {
+  border-radius: 20px;
+}
+
+.project-quadrant:hover {
+  border: 10px solid white;
+  border-radius: 20px;
+}
+
 footer {
   margin: 60px 0;
 }
